@@ -1,3 +1,6 @@
+publiched the project at https://bt5half.ccbp.tech
+
+
 In this assignment let's build a **Nxt Trendz** App with Authentication by
 applying the concepts we have learned till now.
 
